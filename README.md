@@ -1,2 +1,3 @@
-# Conteneurisation-Hybride
-Projet Conteneurisation Hybride
+# Conteneurisation Hybride
+
+Structure initiale du dépôt.
